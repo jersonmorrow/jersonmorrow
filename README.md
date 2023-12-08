@@ -2,10 +2,6 @@
 
 [![ProfileBanner](https://github.com/jersonmorrow/jersonmorrow/blob/main/Images/banner-github.png)](https://jersonmorrow.com)
 
-
-
-<img width="800px" src="https://www.jersonmorrow.com/og-bg.png">
-
 <!--
 **jersonmorrow/jersonmorrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
