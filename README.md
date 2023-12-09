@@ -4,6 +4,7 @@
 
 ## About me
 
+- 📍 I'm based in Seattle, WA.
 - 🔭 I’m currently working as a Full-Stack Engineer in @jakroo
 - 🔥 I’m currently learning about compilers and Rust
 - 📫 How to reach me: ✉️ dev@jersonmorrow.com
