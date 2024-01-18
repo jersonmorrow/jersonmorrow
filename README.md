@@ -8,7 +8,7 @@
 - 👨🏻‍💻 Currently working as a Full-Stack Engineer at @jakroo
 - 💅 My superpower is in the front-end
 - 💡 I’m currently learning about compilers and Rust
-- 📫 Contact: dev@jersonmorrow.com
+- ✉️ Contact: dev@jersonmorrow.com
 
 ## Hackathons 🥷🏼 :
 
