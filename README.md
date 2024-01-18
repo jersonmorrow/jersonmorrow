@@ -12,8 +12,8 @@
 
 ## Hackathons 🥷🏼 :
 
-- Fixie's AI + LLM Seattle Hackathon  -  [Check out!](https://www.fixie.ai/blog/highlights-from-fixies-ai-llm-seattle-hackathon/)<br/>
-- Laboratoria Talent Fest  -  [Check out!](https://www.credential.net/aa1cdb9c-32ed-499c-a66e-ae3616459fd5#gs.3stvuz)<br/>
+- Fixie's AI + LLM Seattle Hackathon - 🏆 Thing of Beauty! Award  -  [Check out!](https://www.fixie.ai/blog/highlights-from-fixies-ai-llm-seattle-hackathon/)<br/>
+- Laboratoria Talent Fest -  [Check out!](https://www.credential.net/aa1cdb9c-32ed-499c-a66e-ae3616459fd5#gs.3stvuz)<br/>
 
 <!--
 <details>
