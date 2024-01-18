@@ -1,13 +1,19 @@
-### Hey, I'm Jerson Morrow 👨🏻‍💻 👋
+### Jerson Morrow
 
 [![ProfileBanner](https://github.com/jersonmorrow/jersonmorrow/blob/main/Images/banner-github.png)](https://jersonmorrow.com)
 
 ## About me
 
 - 📍 I'm based in Seattle, WA.
-- 🔭 I’m currently working as a Full-Stack Engineer in @jakroo
-- 🔥 I’m currently learning about compilers and Rust
-- 📫 How to reach me: ✉️ dev@jersonmorrow.com
+- 👨🏻‍💻 Currently working as a Full-Stack Engineer at @jakroo
+- 💅 My superpower is in the front-end
+- 💡 I’m currently learning about compilers and Rust
+- 📫 Contact: dev@jersonmorrow.com
+
+## Hackathons 🥷🏼 :
+
+- Fixie's AI + LLM Seattle Hackathon  -  [Check out!](https://www.fixie.ai/blog/highlights-from-fixies-ai-llm-seattle-hackathon/)<br/>
+- Laboratoria Talent Fest  -  [Check out!](https://www.credential.net/aa1cdb9c-32ed-499c-a66e-ae3616459fd5#gs.3stvuz)<br/>
 
 <!--
 <details>
