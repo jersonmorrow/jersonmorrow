@@ -5,9 +5,8 @@
 ## About me
 
 - 📍 I'm based in Seattle, WA.
-- 👨🏻‍💻 Currently working as a Full-Stack Engineer at @jakroo
-- 💅 My superpower is in the front-end
-- 💡 I’m currently learning about compilers and Rust
+- 👨🏻‍💻 Currently working as a AI/ML Engineer at @Riley
+- 💡 I’m currently learning about AI
 - ✉️ Contact: dev@jersonmorrow.com
 
 ## Hackathons 🥷🏼 :
