@@ -6,12 +6,11 @@
 
 - 📍 I'm based in Seattle, WA.
 - 👨🏻‍💻 Currently working as a AI/ML Engineer at @Riley
-- 💡 I’m currently learning about AI
 - ✉️ Contact: dev@jersonmorrow.com
 
 ## Hackathons 🥷🏼 :
 
-- Fixie's AI + LLM Seattle Hackathon - 🏆 Thing of Beauty! Award  -  [Check out!](https://medium.com/fixie-ai/highlights-from-fixies-ai-llm-seattle-hackathon-d1ba6c8df239)<br/>
+- Fixie's AI + LLM Seattle Hackathon -  [Check out!](https://medium.com/fixie-ai/highlights-from-fixies-ai-llm-seattle-hackathon-d1ba6c8df239)<br/>
 - Laboratoria Talent Fest -  [Check out!](https://www.credential.net/aa1cdb9c-32ed-499c-a66e-ae3616459fd5#gs.3stvuz)<br/>
 
 <!--
