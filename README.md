@@ -5,7 +5,7 @@
 ## About me
 
 - 📍 I'm based in Seattle, WA.
-- 👨🏻‍💻 Currently working as a AI/ML Engineer at @Riley
+- 👨🏻‍💻 Currently working as a AI/LLM Engineer at @Riley
 - ✉️ Contact: dev@jersonmorrow.com
 
 ## Hackathons 🥷🏼 :
