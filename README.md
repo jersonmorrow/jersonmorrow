@@ -5,7 +5,7 @@
 ## About me
 
 - 📍 I'm based in Seattle, WA.
-- 👨🏻‍💻 Currently working as a AI/LLM Engineer at @Censys
+- 👨🏻‍💻 Currently working as a AI/LLM Engineer at @censys
 - ✉️ Contact: dev@jersonmorrow.com
 
 ## Hackathons 🥷🏼 :
